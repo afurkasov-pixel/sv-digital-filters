@@ -1,0 +1,6 @@
+obj_dir/
+*.vcc
+*.vvp
+*.fst
+coverage*/
+*.dat
